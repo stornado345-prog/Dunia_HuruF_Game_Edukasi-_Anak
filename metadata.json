@@ -1,0 +1,6 @@
+{
+  "name": "Dunia Huruf",
+  "description": "Game edukasi 2D ceria dan ramah anak untuk belajar alfabet A-Z, tebak huruf, mencocokkan kata, dan koleksi bintang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
